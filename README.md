@@ -12,12 +12,13 @@ Health management system using React and SpringBoot
        d. Select appointment date and then check slots availability on selected date and the click book appointment.
 
 
-3. For Backend (You need to install Eclipse IDE or STS )(for download references https://www.codejava.net/frameworks/spring/install-spring-tool-suite-windows)
+2. For Backend (You need to install Eclipse IDE or STS )(for download references https://www.codejava.net/frameworks/spring/install-spring-tool-suite-windows)
 
        a. After opening of STS application -> File on STS ide -> import -> select Maven -> Maven Existing Project -> Product_Management_Backend
        b. open src/main/resources -> application.properties file and change username -> with your mysql username
                                                                                  and password -> your mysql password
        c. Then Right click on Product_Management_Backend and and select Run As-> Spring Boot App.
    
-   
+
+3. Open MYSQL and create databse schema with name management2
    
